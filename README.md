@@ -10,5 +10,5 @@ This is a work under progress:
 - AI & ML: LLMs, GenAI
 - Data Science: Data related
 - Mern stack 
-- 
+- Product side also needs to be explored
 
