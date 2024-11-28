@@ -6,8 +6,9 @@ This is a work under progress:
 - DSA, problem solving
 - Git, Gitub, Version Control
 - App development: iOS, Android, Flutter
+- System Design
 - AI & ML: LLMs, GenAI
 - Data Science: Data related
-- Backend 
+- Mern stack 
 - 
 
